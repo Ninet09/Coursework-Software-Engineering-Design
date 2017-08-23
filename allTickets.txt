@@ -1,0 +1,132 @@
+11343234
+child
+screen 1
+KONG-SKULL ISLAND
+11423332
+senior
+screen 3
+KONG-SKULL ISLAND
+14322334
+student
+screen 2
+KONG-SKULL ISLAND
+11243242
+senior
+screen 2
+KONG-SKULL ISLAND
+41131122
+adult
+screen 2
+KONG-SKULL ISLAND
+23143224
+child
+screen 2
+KONG-SKULL ISLAND
+23114223
+senior
+screen 3
+KONG-SKULL ISLAND
+44411141
+child
+screen 3
+KONG-SKULL ISLAND
+21133343
+senior
+screen 1
+BEAUTY AND THE BEAST
+44432344
+child
+screen 1
+BEAUTY AND THE BEAST
+13323323
+senior
+screen 2
+LA LA LAND
+44144314
+adult
+screen 2
+LA LA LAND
+42213214
+child
+screen 2
+LA LA LAND
+32343144
+student
+screen 2
+LA LA LAND
+21122212
+adult
+screen 2
+MOONLIGHT
+32143331
+child
+screen 2
+MOONLIGHT
+13343331
+senior
+screen 2
+MOONLIGHT
+42333141
+student
+screen 2
+MOONLIGHT
+21413321
+senior
+screen 3
+LOGAN
+22144111
+child
+screen 3
+LOGAN
+24242214
+senior
+screen 3
+LOGAN
+13243331
+adult
+screen 3
+BEAUTY AND THE BEAST
+44132413
+adult
+screen 3
+BEAUTY AND THE BEAST
+33323222
+student
+screen 1
+BEAUTY AND THE BEAST
+14322212
+senior
+screen 1
+BEAUTY AND THE BEAST
+33312441
+adult
+screen 1
+KONG-SKULL ISLAND
+21433414
+senior
+screen 1
+KONG-SKULL ISLAND
+34333323
+student
+screen 1
+KONG-SKULL ISLAND
+31122412
+student
+screen 2
+KONG-SKULL ISLAND
+14211233
+child
+screen 2
+KONG-SKULL ISLAND
+21244344
+senior
+screen 1
+KONG-SKULL ISLAND
+12143132
+senior
+screen 3
+LOGAN
+14142224
+senior
+screen 3
+KONG-SKULL ISLAND
